@@ -1,7 +1,6 @@
 import java.util.Scanner;  
   
-// create class InvalidAgeException by extending Exception class for create invalid age exception  
-@SuppressWarnings("serial")  
+// create class InvalidAgeException by extending Exception class for create invalid age exception   
 class InvalidAgeException  extends Exception    
 {    
     // parameterized constructor that accepts only detail message  
